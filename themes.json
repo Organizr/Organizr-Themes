@@ -1,5 +1,5 @@
 {
-	"Nord Theme": {
+	"Nord": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -14,9 +14,6 @@
 		"github_folder": "Nord_theme",
 		"project_folder": "Nord_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Nord.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/nord/nord_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/nord/nord_splash.jpg",
@@ -26,7 +23,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Dracula Theme": {
+	"Dracula": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -41,9 +38,6 @@
 		"github_folder": "Dracula_theme",
 		"project_folder": "Dracula_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Dracula.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dracula/dracula_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/dracula/dracula_splash.jpg",
@@ -53,7 +47,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Overseerr Theme": {
+	"Overseerr": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -68,9 +62,6 @@
 		"github_folder": "Overseerr_theme",
 		"project_folder": "Overseerr_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Overseerr.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/overseerr/overseerr_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/overseerr/overseerr_splash.jpg",
@@ -80,7 +71,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Onedark Theme": {
+	"Onedark": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -95,9 +86,6 @@
 		"github_folder": "Onedark_theme",
 		"project_folder": "Onedark_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Onedark.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/onedark/onedark_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/onedark/onedark_splash.jpg",
@@ -107,7 +95,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Aquamarine Theme": {
+	"Aquamarine": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -122,9 +110,6 @@
 		"github_folder": "Aquamarine_theme",
 		"project_folder": "Aquamarine_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Aquamarine.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/aquamarine_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/aquamarine_splash.jpg",
@@ -134,7 +119,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Space Gray Theme": {
+	"Space_Gray": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -149,9 +134,6 @@
 		"github_folder": "Space_Gray_theme",
 		"project_folder": "Space_Gray_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Space_Gray.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/spacegray_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/spacegray_splash.jpg",
@@ -161,7 +143,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Plex Theme theme park": {
+	"Plex_theme_park": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -176,9 +158,6 @@
 		"github_folder": "Plex_themepark_theme",
 		"project_folder": "Plex_themepark_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Plex_theme_park.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/plex_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/plex_splash.jpg",
@@ -188,7 +167,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Dark Theme theme park": {
+	"Dark_theme_park": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -203,9 +182,6 @@
 		"github_folder": "Dark_themepark_theme",
 		"project_folder": "Dark_themepark_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Dark_theme_park.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/dark_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/dark_splash.jpg",
@@ -215,7 +191,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Hotline Theme": {
+	"Hotline": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -230,9 +206,6 @@
 		"github_folder": "Hotline_theme",
 		"project_folder": "Hotline_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Hotline.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/hotline_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/hotline_splash.jpg",
@@ -242,7 +215,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Hotpink Theme": {
+	"Hotpink": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "GilbN",
 		"category": "Community",
@@ -257,9 +230,6 @@
 		"github_folder": "Hotpink_theme",
 		"project_folder": "Hotpink_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Hotpink.css"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/hotpink_login.jpg",
 			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/hotpink_splash.jpg",
@@ -269,7 +239,7 @@
 		"css": {},
 		"javascript": {}
 	},
-	"Plex Theme": {
+	"Plex": {
 		"repo": "https://github.com/Organizr/Organizr-Themes",
 		"author": "Grant Burry",
 		"category": "Community",
@@ -284,14 +254,6 @@
 		"github_folder": "plex_theme",
 		"project_folder": "plex_theme",
 		"license": "personal,business",
-		"files": {
-			"/css/themes": "Plex.css",
-			"/plugins/theme_files/plex_theme/images": "rotten.svg|times.svg",
-			"/plugins/theme_files/plex_theme/images/background": "blur-dark.png|blur-dark-login.png|blur-light.png|noise.png",
-			"/plugins/theme_files/plex_theme/images/cache": "no-request.svg|not-found.svg",
-			"/plugins/theme_files/plex_theme/images/groups": "admin.svg|coadmin.svg|guest.svg|poweruser.svg|superuser.svg|user.svg",
-			"/plugins/theme_files/plex_theme/images/tabs": "ombi.svg"
-		},
 		"images": {
 			"Login": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/1.png",
 			"Splash": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/2.png",
