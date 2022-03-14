@@ -1,0 +1,304 @@
+{
+	"Nord Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A Nord colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/nord/theme-park-organizr-nord-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "1.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2021-11-06",
+		"last_updated": "2021-11-06",
+		"github_folder": "Nord_theme",
+		"project_folder": "Nord_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Nord.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/nord/nord_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/nord/nord_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/nord/nord_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/nord/nord_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Dracula Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A Dracula colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/dracula/theme-park-organizr-dracula-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "1.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2021-07-15",
+		"last_updated": "2021-07-15",
+		"github_folder": "Dracula_theme",
+		"project_folder": "Dracula_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Dracula.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dracula/dracula_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/dracula/dracula_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dracula/dracula_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dracula/dracula_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Overseerr Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A Overseerr colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/overseerr/theme-park-organizr-overseerr-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "1.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2021-09-06",
+		"last_updated": "2021-09-06",
+		"github_folder": "Overseerr_theme",
+		"project_folder": "Overseerr_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Overseerr.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/overseerr/overseerr_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/overseerr/overseerr_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/overseerr/overseerr_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/overseerr/overseerr_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Onedark Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A Onedark colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/onedark/theme-park-organizr-onedark-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "1.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2021-09-06",
+		"last_updated": "2021-09-06",
+		"github_folder": "Onedark_theme",
+		"project_folder": "Onedark_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Onedark.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/onedark/onedark_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/GilbN/theme.park/master/resources/organizr/onedark/onedark_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/onedark/onedark_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/onedark/onedark_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Aquamarine Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "An aquamarine colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/theme-park-organizr-aquamarine-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "2.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2019-06-16",
+		"last_updated": "2019-06-20",
+		"github_folder": "Aquamarine_theme",
+		"project_folder": "Aquamarine_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Aquamarine.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/aquamarine_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/aquamarine_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/aquamarine_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/aquamarine/aquamarine_search.png"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Space Gray Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A space gray colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/theme-park-organizr-spacegray-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "2.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2019-11-27",
+		"last_updated": "2019-11-27",
+		"github_folder": "Space_Gray_theme",
+		"project_folder": "Space_Gray_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Space_Gray.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/spacegray_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/spacegray_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/spacegray_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/spacegray/spacegray_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Plex Theme theme park": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A Plex colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/theme-park-organizr-plex-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"minimum_organizr_version": "2.1.1690",
+		"version": "2.0.1",
+		"release_date": "2021-03-21",
+		"last_updated": "2020-07-25",
+		"github_folder": "Plex_themepark_theme",
+		"project_folder": "Plex_themepark_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Plex_theme_park.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/plex_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/plex_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/plex_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/plex/plex_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Dark Theme theme park": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A dark radial gradient colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/theme-park-organizr-dark-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "2.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2021-03-21",
+		"last_updated": "2020-07-25",
+		"github_folder": "Dark_themepark_theme",
+		"project_folder": "Dark_themepark_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Dark_theme_park.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/dark_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/dark_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/dark_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/dark/dark_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Hotline Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A red and blue colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/theme-park-organizr-hotline-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "2.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2019-06-16",
+		"last_updated": "2019-06-20",
+		"github_folder": "Hotline_theme",
+		"project_folder": "Hotline_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Hotline.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/hotline_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/hotline_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/hotline_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotline/hotline_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Hotpink Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "GilbN",
+		"category": "Community",
+		"description": "A pink and blue colored theme for Organizr ",
+		"icon": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/theme-park-organizr-hotpink-logo.png",
+		"contact": null,
+		"website": "https://theme-park.dev",
+		"version": "2.0.1",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2021-09-06",
+		"last_updated": "2021-09-06",
+		"github_folder": "Hotpink_theme",
+		"project_folder": "Hotpink_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Hotpink.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/hotpink_login.jpg",
+			"Splash": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/hotpink_splash.jpg",
+			"Homepage": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/hotpink_homepage.jpg",
+			"Search": "https://raw.githubusercontent.com/gilbN/theme.park/master/resources/organizr/hotpink/hotpink_search.jpg"
+		},
+		"css": {},
+		"javascript": {}
+	},
+	"Plex Theme": {
+		"repo": "https://github.com/Organizr/Organizr-Themes",
+		"author": "Grant Burry",
+		"category": "Community",
+		"description": "A theme for Organizr that emulates the style of Plex",
+		"icon": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/icon.png",
+		"contact": null,
+		"website": "https://burry.dev/Organizr-Plex-Theme",
+		"version": "3.0.0",
+		"minimum_organizr_version": "2.1.1690",
+		"release_date": "2018-07-31",
+		"last_updated": "2019-06-15",
+		"github_folder": "plex_theme",
+		"project_folder": "plex_theme",
+		"license": "personal,business",
+		"files": {
+			"/css/themes": "Plex.css",
+			"/plugins/theme_files/plex_theme/images": "rotten.svg|times.svg",
+			"/plugins/theme_files/plex_theme/images/background": "blur-dark.png|blur-dark-login.png|blur-light.png|noise.png",
+			"/plugins/theme_files/plex_theme/images/cache": "no-request.svg|not-found.svg",
+			"/plugins/theme_files/plex_theme/images/groups": "admin.svg|coadmin.svg|guest.svg|poweruser.svg|superuser.svg|user.svg",
+			"/plugins/theme_files/plex_theme/images/tabs": "ombi.svg"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/1.png",
+			"Splash": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/2.png",
+			"Homepage": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/3.png",
+			"Search": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/4.png"
+		},
+		"css": {},
+		"javascript": {}
+	}
+}
